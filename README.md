@@ -1,1 +1,2 @@
-# intellibikes
+# IntelliBikes
+Full responsive website
